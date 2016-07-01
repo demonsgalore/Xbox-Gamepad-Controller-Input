@@ -8,7 +8,7 @@ I was only able to test this under Windows 10 with an Xbox360-Controller (wired)
 
 # Getting started
 
-You need to import Jinput to your project. I've used [Jinput 2.0.6](http://mvnrepository.com/artifact/net.java.jinput/jinput/2.0.6) but you can also use the [latest build](http://ci.newdawnsoftware.com/job/JInput-git/), if you need something like the Windows 8/10-warning gone.
+You need to import Jinput to your project. I've used [Jinput 2.0.6](http://grepcode.com/snapshot/repo1.maven.org/maven2/net.java.jinput/jinput/2.0.6) but you can also use the [latest build](http://ci.newdawnsoftware.com/job/JInput-git/), if you need something like the Windows 8/10-warning gone.
 
 The next thing you need are the native libraries of Jinput. You get these here:
 
