@@ -159,6 +159,11 @@ public class XboxGamepadInput {
                     // if you want to use UpLeft, UpRight, DownLeft and DownRight on DPad, you have to ad cases for value = 0.125, 0.375, 0.625 and 0.875
                 }
             }
+            try {
+                Thread.sleep(10);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
         }
         
     }
